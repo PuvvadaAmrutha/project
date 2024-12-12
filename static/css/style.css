@@ -1,0 +1,43 @@
+.title-div{
+    float: left;
+    width: 50%;
+    background-color: aqua;
+    margin: 5% 0% 0% 25%; 
+}
+.title-div h1{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.title-div input{
+    width: 25%;
+    padding: 0.5% 0% 0.5% 0%;
+    text-align: center;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+}
+.title-div button{
+    margin:2% 0% 2% 39%;  
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.output-div{
+    float: left;
+    width: 30%;
+    margin: 4% 0% 0% 35%;
+    text-align: center;
+    font-size: 30px;
+}
+.login-div{
+    background-color: beige;
+    float:left;
+    width:50%;
+    margin:2% 0% 2% 25%;
+}
+.login-div input,.login-div button{
+    width:90%;
+    margin:3% 0% 0% 5%;
+    text-align: center;
+    font-size: 30px;
+}
